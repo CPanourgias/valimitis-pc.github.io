@@ -7,15 +7,6 @@
     margin-bottom: 15px;
 }
 
-#financials ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-#financials ul li {
-    margin: 10px 0;
-}
-
 #financials ul li a {
     text-decoration: none;
     color: #007bff;
